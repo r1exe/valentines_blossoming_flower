@@ -54,9 +54,8 @@ document.addEventListener("DOMContentLoaded", function () {
     "I'm begging you",
     "I'm crying",
     "I'm sad",
-    "HUHUHUHU",
     "Please Say Yes",
-    "I'm gonna cry",
+    "walai nitalia",
   ];
   
   function normal() {
