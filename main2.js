@@ -107,7 +107,7 @@ document.addEventListener("DOMContentLoaded", function () {
         window.open("index1.html", "_blank");
 
     } else {
-        alert("Don't say yes right away, cutie. Play around a bit 😉😘");
+        alert("HAHAHAHHA ushafinya yess, tulia kwanza babe. Play around a bit 😉😘");
     }
 }
 
